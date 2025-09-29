@@ -1,0 +1,785 @@
+@media (min-width:1400px) and (max-width: 1600px) {
+    .container {
+        padding: 0 50px;
+    }
+
+    /*portfolio section*/
+    .portfolio-left {
+        padding: 24px 0 0 24px;
+        max-width: 100%;
+    }
+
+    .portfolio-left h3 {
+        margin-bottom: 18px;
+        line-height: 34px;
+    }
+
+    .activities-outer {
+        gap: 12px 12px;
+    }
+
+    /*hire-section*/
+    .about-heading {
+        padding-bottom: 0;
+        margin-bottom: 8px;
+    }
+
+    .hire-section .hire-right h3 {
+        line-height: 38px;
+    }
+
+    .hire-section .hire-right .description {
+        padding: 8px 0 28px;
+    }
+
+    .hire-section .hire-img {
+        height: 100%;
+    }
+
+    button.slick-next.slick-arrow {
+        left: 16%;
+    }
+
+    button.slick-prev.slick-arrow {
+        padding-right: 60px;
+    }
+}
+
+@media (min-width:1025px) and (max-width:1399px) {
+    .container {
+        padding: 0 35px;
+    }
+
+    .shopify-experts h1 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+
+    .shopify-experts h5 {
+        line-height: 24px;
+        margin: 16px 0 28px 0;
+    }
+
+    .shopify-experts h3 {
+        padding: 16px 0 28px;
+    }
+
+    .section-heading {
+        font-size: 48px;
+        line-height: 56px;
+    }
+
+    .sub-heading {
+        font-size: 28px;
+    }
+
+    .section-heading-outer::after {
+        left: 22%;
+    }
+
+    /*portfolio-section*/
+    .portfolio {
+        height: 600px;
+    }
+
+    .portfolio-left {
+        padding: 24px 0 0 24px;
+        max-width: 100%;
+    }
+
+    .portfolio-left h3 {
+        margin-bottom: 18px;
+        line-height: 34px;
+    }
+
+    .activities-outer {
+        gap: 12px 12px;
+    }
+
+    .portfolio-right {
+        padding: 8px 10px 0 0;
+    }
+
+    button.slick-prev.slick-arrow {
+        left: 12%;
+        bottom: 18px;
+    }
+
+    button.slick-next.slick-arrow {
+        left: 19%;
+        bottom: 18px;
+    }
+
+    /*work togather section*/
+    .icon-outer {
+        min-width: 96px;
+    }
+
+    .box-outer .form-check {
+        line-height: 24px;
+    }
+
+    .text-box {
+        padding: 12px 12px;
+    }
+
+    /*about-section*/
+    .about-section .section-heading {
+        margin: 0;
+    }
+
+    .about-us-left .about-heading {
+        padding-bottom: 0;
+    }
+
+    .about-section .sub-heading {
+        line-height: 40px;
+    }
+
+    .description {
+        margin: 10px 0 22px 0;
+        line-height: 28px;
+    }
+
+    /*industries section*/
+    .industries-section .section-heading-outer::after {
+        display: none;
+    }
+
+    /*faq section*/
+    .faq-section .section-heading-outer::after {
+        left: 24%;
+    }
+
+    /*footer*/
+    .logo img {
+        min-width: 223px;
+        min-height: 40px;
+    }
+
+    footer .title {
+        font-size: 42px;
+        line-height: 52px;
+    }
+
+    footer .form-control {
+        min-width: 440px;
+    }
+}
+
+@media screen and (min-width:991px),
+(max-width:1024) {
+    .icon-outer {
+        max-width: 90px;
+    }
+
+}
+
+@media screen and (max-width:1024px) {
+    .section-heading {
+        font-size: 46px;
+        line-height: 52px;
+    }
+
+    .sub-heading {
+        font-size: 28px;
+        line-height: 34px;
+    }
+
+    .heading-text {
+        line-height: 18px;
+    }
+
+    .section-heading-outer::after {
+        /* bottom: 2px; left: 8px; */
+        display: none;
+    }
+
+    /*banner section*/
+    .shopify-experts h1 {
+        font-size: 45px;
+        line-height: 58px;
+    }
+
+    .shopify-experts-inner {
+        row-gap: 18px;
+        column-gap: 78px;
+    }
+
+    .shopify-experts h5 {
+        margin: 16px 0 26px 0;
+    }
+
+    .shopify-experts h3 {
+        padding: 8px 0 12px;
+    }
+
+    /*project section*/
+    .project-box-right .section-heading {
+        max-width: 100%;
+    }
+
+    /*industries section*/
+    .category-outer img {
+        min-width: 316px;
+        min-height: 210px;
+        max-height: 210px;
+        width: 100%;
+        border-radius: 8px;
+    }
+
+    .industries-section .section-heading-outer {
+        gap: 46px;
+    }
+
+    /*hire section*/
+    .about-heading {
+        padding-bottom: 0;
+    }
+
+    .hire-section .hire-right h3 {
+        margin: 0;
+    }
+
+    .hire-section .hire-right .description {
+        pad: 8px 0 22px;
+    }
+
+    .hire-img {
+        height: 100%;
+    }
+
+    /*portfolio section*/
+    .portfolio-left {
+        padding: 22px 0 12px 32px;
+    }
+
+    .portfolio-right {
+        padding: 10px 12px 10px 0;
+    }
+
+    .portfolio-left h3 {
+        margin-bottom: 18px;
+        font-size: 21px;
+        line-height: 32px;
+    }
+
+    .activities-outer {
+        margin: 15px 0 22px;
+        gap: 12px 12px;
+    }
+
+    button.slick-prev.slick-arrow {
+        left: 6%;
+        bottom: 4px;
+    }
+
+    button.slick-next.slick-arrow {
+        bottom: 4px;
+        left: 14%;
+    }
+
+    /*work togather section*/
+    .box-outer .form-check {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .text-box {
+        padding: 12px 6px;
+    }
+
+    .form-check-input[type=radio] {
+        width: 28px;
+        height: 28px;
+    }
+
+    /*about us section*/
+    .about-us-left .about-heading .section-heading {
+        margin: 0;
+    }
+
+    .about-section .sub-heading {
+        margin: 0;
+        line-height: 42px;
+    }
+
+    .about-section .description {
+        margin: 10px 0 20px;
+        line-height: 27px;
+    }
+
+    .about-us-right img {
+        height: 444px;
+    }
+
+    /* footer
+    footer .title { font-size: 42px; line-height: 52px; }
+.logo img { min-width: 223px; min-height: 40px; }
+footer .form-control { min-width: 440px; }*/
+}
+
+@media screen and (max-width: 991px) {
+    .container {
+        overflow: hidden;
+    }
+
+    .section-heading-outer::after {
+        bottom: 5px;
+        left: 1%;
+    }
+
+    .section-heading-outer {
+        gap: 56px;
+    }
+
+    .sub-heading {
+        margin: 0;
+    }
+
+    .heading-text {
+        line-height: 30.78px;
+    }
+
+    /*industries-section*/
+    .industries-section .section-heading-outer {
+        column-gap: 56px;
+    }
+
+    /*about section*/
+    .about-us-right {
+        margin: 28px 0 0;
+    }
+
+    /*banner section*/
+    .form-container {
+        margin: 34px auto 0;
+    }
+
+    /*services section*/
+    .services-section .section-heading-outer {
+        column-gap: 56px;
+    }
+
+    /*portfolio section*/
+    .portfolio-left {
+        padding: 24px 0 0 24px;
+        max-width: 100%;
+    }
+
+    .portfolio-left h3 {
+        margin-bottom: 28px;
+    }
+
+    .portfolio-left .appointment-button {
+        margin-bottom: 20px;
+    }
+
+    .portfolio-inner {
+        display: none;
+    }
+
+    .portfolio-right img {
+        width: 100%;
+    }
+
+    .slider_cus .slick-slide {
+        padding: 0 6px;
+    }
+
+    button.slick-prev.slick-arrow {
+        left: 5%;
+        bottom: 0;
+    }
+
+    button.slick-next.slick-arrow {
+        left: 13.5%;
+        bottom: 0;
+    }
+
+    /*work togather section*/
+    .box-outer {
+        margin-bottom: 22px;
+    }
+
+    /*faq section*/
+    .faq-left h4 {
+        text-align: center;
+    }
+
+    .faq-section .faq-left .appointment-button {
+        justify-content: center;
+    }
+
+    .faq-img {
+        width: 100%;
+    }
+}
+
+/*footer section*/
+.logo {
+    text-align: center;
+}
+
+footer .row {
+    gap: 0;
+}
+
+@media screen and (max-width:767px) {
+    .container {
+        padding: 0 20px;
+        overflow: hidden;
+    }
+
+    header {
+        padding: 0;
+    }
+
+    /* .header-top { flex-direction: column; align-items: center; gap: 12px; }*/
+    /*banner section*/
+    .form-container {
+        margin: 40px 16px;
+    }
+
+    .custom-development-outer {
+        flex-direction: column;
+    }
+
+    .custom-right img {
+        min-width: auto;
+    }
+
+    .custom-left h2 {
+        text-align: center;
+    }
+
+    .api-integration-outer img {
+        min-width: auto;
+    }
+
+    .section-heading-outer {
+        flex-direction: column;
+        row-gap: 10px;
+    }
+
+    .section-heading-outer::after {
+        display: none;
+    }
+
+    .project-box-right .appointment-button {
+        justify-content: center;
+    }
+
+    .section-heading {
+        display: flex;
+        gap: 5px;
+    }
+
+    .about-heading:after {
+        bottom: 16px;
+    }
+
+    .industries-section .section-heading-outer {
+        row-gap: 12px;
+    }
+
+    /*hire-section*/
+    .hire-section .row {
+        flex-direction: column-reverse;
+        gap: 32px;
+    }
+
+    .hire-right .section-heading {
+        justify-content: end;
+    }
+
+    /*2nd section*/
+    .box-outer {
+        margin-bottom: 22px;
+        width: 100%;
+    }
+
+    /*portfolio section*/
+    .portfolio {
+        display: block !important;
+    }
+
+    .portfolio-left {
+        padding: 24px 0 0 24px;
+        max-width: 100%;
+    }
+
+    .portfolio-left h3 {
+        font-size: 22px;
+        margin-bottom: 22px;
+    }
+
+    .portfolio-left .appointment-button {
+        margin-bottom: 20px;
+    }
+
+    .portfolio-right img {
+        width: 100%;
+    }
+
+    .slider_cus .slick-slide {
+        padding: 0 6px;
+    }
+
+    button.slick-prev.slick-arrow {
+        display: none !important;
+    }
+
+    button.slick-next.slick-arrow {
+        display: none !important;
+    }
+
+    /*about section*/
+    .about-us-right {
+        margin: 28px 0 0;
+    }
+
+    /*mind project section*/
+    .project-main-box {
+        flex-direction: column-reverse;
+    }
+
+    .project-box-right .section-heading {
+        min-width: 100%;
+    }
+
+    /*contact form section*/
+    footer .form-control {
+        min-width: auto;
+    }
+}
+
+@media screen and (max-width:575px) {
+
+    /*about section*/
+    .about-section .about-us-right img {
+        height: 100%
+    }
+}
+
+@media screen and (max-width:480px) {
+    .container {
+        max-width: 100%;
+        overflow: hidden;
+    }
+
+    header {
+        padding: 0;
+    }
+
+    .header-top {
+        flex-direction: column;
+        align-items: center;
+        gap: 18px;
+        padding: 0;
+    }
+
+    .appointment-button {
+        width: 100%;
+    }
+
+    /* .book-btn {
+        padding: 13px 33px;
+        line-height: 24px;
+    }
+
+    .hire-btn {
+        padding: 17px 42px;
+    }
+
+    .link-btn {
+        width: 50px;
+        height: 50px;
+    } */
+
+    .shopify-experts h1 {
+        font-size: 32px;
+        line-height: 46px;
+    }
+
+    .header-buttons {
+        justify-content: center;
+    }
+
+    .shopify-experts-inner {
+        row-gap: 15px;
+        column-gap: 38px;
+    }
+
+    .shopify-experts-inner {
+        justify-content: space-around;
+        margin-bottom: 15px;
+    }
+
+    .form-container {
+        margin: 35px 20px;
+        padding: 40px 18px;
+    }
+
+    .section-heading-outer {
+        flex-direction: column;
+        text-align: start;
+        justify-content: start;
+    }
+
+    .section-heading {
+        font-size: 32px;
+        margin-right: auto;
+        line-height: 36px;
+    }
+
+    .heading-text {
+        line-height: 26px;
+    }
+
+    .sub-heading {
+        font-size: 24px;
+        margin: 2px 0 10px 0;
+    }
+
+    .category img {
+        width: 440px;
+    }
+
+    /*project section*/
+    .project-box-right .section-heading {
+        font-size: 24px;
+    }
+
+    .project-box-right {
+        padding: 38px 14px;
+    }
+
+    /*services section*/
+    .services-section .section-heading-outer {
+        row-gap: 8px;
+    }
+
+    .industries-section .book-btn {
+        padding: 20px 20px;
+        align-self: center;
+    }
+
+    .project-main-box {
+        flex-direction: column-reverse;
+    }
+
+    .project-box-left {
+        border: none;
+    }
+
+    .faq-section .section-heading-outer {
+        flex-direction: column;
+    }
+
+    .hire-right .section-heading {
+        text-align: start;
+    }
+
+    .hire-section .row {
+        flex-direction: column-reverse;
+        gap: 32px;
+    }
+
+    .icon-container {
+        margin: auto;
+    }
+
+    .box {
+        text-align: center;
+    }
+
+    /*2nd section*/
+    .icon-outer {
+        min-width: 98px;
+    }
+
+    .text-box {
+        padding: 16px 6px;
+    }
+
+    .category-outer img {
+        min-width: 100%;
+        min-height: 310px;
+    }
+
+    /*services section*/
+    .box h3 {
+        font-size: 20px;
+    }
+
+    /* .about-heading:after {
+        right: 0;
+    } */
+
+    /* .section-heading-outer::after {
+        display: none;
+    } */
+
+    .industries-section .appointment-button .book-btn {
+        padding: 20px 22px;
+    }
+
+    /*about section*/
+    .about-section .sub-heading {
+        line-height: 32px;
+    }
+
+    /* .about-us-left .about-heading::after {
+        display: none;
+    } */
+
+    /*hire section*/
+    .hire-section .hire-right h3 {
+        font-size: 26px;
+    }
+
+    /*Industries section*/
+    .industries-section .section-heading-outer {
+        row-gap: 0;
+    }
+
+    /* .portfolio { display: block !important; }
+.portfolio-left { padding: 24px 0 0 24px; max-width: 100%; }
+.portfolio-left h3 { font-size: 22px; margin-bottom: 28px; }
+.portfolio-left .appointment-button { margin-bottom: 20px; }
+.portfolio-right img { width: 100%; }
+.slider_cus .slick-slide { padding: 0 6px; }
+button.slick-prev.slick-arrow { display: none !important; }
+button.slick-next.slick-arrow { display: none !important; }*/
+
+    /*footer*/
+    .footer-form {
+        flex-direction: column;
+    }
+
+    footer .contact-form-btn {
+        min-height: 51px;
+        width: 50%;
+        align-self: center;
+    }
+
+    footer .title::after {
+        display: none;
+    }
+
+    footer .form-control {
+        min-width: 100%;
+    }
+}
+
+@media screen and (max-width: 390px) {
+    .box-outer .form-check {
+        line-height: 22px;
+    }
+
+    .industries-section .appointment-button .book-btn {
+        font-size: 14px;
+        padding: 20px 14px;
+    }
+}
