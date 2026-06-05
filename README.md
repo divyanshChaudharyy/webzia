@@ -1,1 +1,1 @@
-# This is project i craeted as a trainee
+# This is project i created as a trainee
